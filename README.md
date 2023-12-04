@@ -1,6 +1,6 @@
 # Lab7
 
-# se_midterm
+# se_midterm @author Nguyễn Công Minh Đức - 21000196 
 Hotel Management 
 
 Goal: 
