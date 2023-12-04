@@ -17,7 +17,7 @@ Business Objectives
 
 - Ensure the application can adapt to changing needs and scale with business growth.
 
-- Maximize room occupancy and revenue.
+- Maximize room occupancy and revenue. 
 
 - Achieve a 15% increase in room occupancy: Develop targeted marketing campaigns, partnerships, and promotions to attract more guests and increase occupancy rates.
 
